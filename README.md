@@ -5,8 +5,8 @@ nhận sĩ số từ các điểm trường qua điện thoại.
 
 ## Tải và cài đặt
 
-1. Mở **[bản mới nhất](https://github.com/phihung9t1video/bep-an-phat-hanh/releases/latest)** → mục **Assets**
-   → bấm tệp **BepAn_CaiDat_….exe** để tải về.
+1. **[Bấm vào đây để tải bộ cài (bản mới nhất)](https://github.com/phihung9t1video/bep-an-phat-hanh/releases/latest/download/BepAn_CaiDat.exe)**
+   — tệp `BepAn_CaiDat.exe`, khoảng 54 MB.
 2. Nhấp đúp tệp vừa tải. Nếu Windows báo “Windows đã bảo vệ máy tính”: bấm **Thông tin thêm → Vẫn chạy**.
 3. Cài xong có biểu tượng **Bếp ăn mầm non** ngoài màn hình. Lần đầu mở: tạo tài khoản quản trị, tạo trường.
 
